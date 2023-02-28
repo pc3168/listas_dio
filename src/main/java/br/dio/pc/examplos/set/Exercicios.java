@@ -65,7 +65,7 @@ public class Exercicios {
 
         System.out.println("-->>----------------------<<--");
         System.out.println("G. Limpe o conjunto");
-        sets.removeAll(sets);
+        sets.clear();
 
         System.out.println("-->>----------------------<<--");
         System.out.println("H. Confira se o conjunto está vazio");
